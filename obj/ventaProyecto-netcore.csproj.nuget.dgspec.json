@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Workspace\\Trabajando\\ventaProyecto-netcore\\ventaProyecto-netcore.csproj": {}
+    "D:\\Workspace\\Trabajando\\ProyectoVentaWeb\\ventaProyecto-netcore\\ventaProyecto-netcore.csproj": {}
   },
   "projects": {
-    "D:\\Workspace\\Trabajando\\ventaProyecto-netcore\\ventaProyecto-netcore.csproj": {
+    "D:\\Workspace\\Trabajando\\ProyectoVentaWeb\\ventaProyecto-netcore\\ventaProyecto-netcore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Workspace\\Trabajando\\ventaProyecto-netcore\\ventaProyecto-netcore.csproj",
+        "projectUniqueName": "D:\\Workspace\\Trabajando\\ProyectoVentaWeb\\ventaProyecto-netcore\\ventaProyecto-netcore.csproj",
         "projectName": "ventaProyecto-netcore",
-        "projectPath": "D:\\Workspace\\Trabajando\\ventaProyecto-netcore\\ventaProyecto-netcore.csproj",
+        "projectPath": "D:\\Workspace\\Trabajando\\ProyectoVentaWeb\\ventaProyecto-netcore\\ventaProyecto-netcore.csproj",
         "packagesPath": "C:\\Users\\Juan Pablo\\.nuget\\packages\\",
-        "outputPath": "D:\\Workspace\\Trabajando\\ventaProyecto-netcore\\obj\\",
+        "outputPath": "D:\\Workspace\\Trabajando\\ProyectoVentaWeb\\ventaProyecto-netcore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -52,6 +52,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.3, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
